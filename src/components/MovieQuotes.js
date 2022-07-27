@@ -1,10 +1,16 @@
 import React from "react";
-
-function MovieQuotes () {
+import Quotes from "./Quotes";
+import Search from "./Search";
+function MovieQuotes({ quotes }) {
+   const myQuotes = quotes.map((quote) => {
+     return <Quotes quote={quote} />
+   });
     return (
         <div>
-            <h1>container</h1>
+            <Search />
+         {myQuotes}
         </div>
     )
+    
 }
 export default MovieQuotes
