@@ -4,13 +4,15 @@
       "id": 1,
       "movie": "Good will Hunting",
       "star": "Sean Maguire",
-      "url": "https://everydaypower.com/wp-content/uploads/2019/05/Famous-quotes-from-movies-768x768.jpg"
+      "url": "https://everydaypower.com/wp-content/uploads/2019/05/Famous-quotes-from-movies-768x768.jpg",
+      "favorite": false
     },
     {
       "id": 2,
       "movie": "Fight Club",
       "star": "Tyler Durden",
-      "url": "https://everydaypower.com/wp-content/uploads/2019/05/Famous-quotes-from-movies-to-inspire-you-768x768.jpg"
+      "url": "https://everydaypower.com/wp-content/uploads/2019/05/Famous-quotes-from-movies-to-inspire-you-768x768.jpg",
+      "favorite": false
     },
     {
       "id": 3,
@@ -173,6 +175,12 @@
       "movie": "The prestige",
       "star": "unknown",
       "url": "https://everydaypower.com/wp-content/uploads/2019/09/movie-quotes-to-motivate-you-768x768.jpg"
+    },
+    {
+      "movie": "Good Will Hunting",
+      "star": "Sean Maguire",
+      "url": "https://godofsmallthing.com/myfiles/2020/04/Inspirational-movie-quotes-700x700.jpg?ezimgfmt=ng:webp/ngcb45",
+      "id": 30
     }
   ]
 }

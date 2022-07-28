@@ -1,6 +1,11 @@
 import React from "react";
-import MovieList from "./MovieList";
+ 
 function Favorites() {
-  return <div></div>;
+  return (
+    <div>
+      <h1>Favorites</h1>
+      
+    </div>
+  );
 }
-export default Favorites;
+export default Favorites
