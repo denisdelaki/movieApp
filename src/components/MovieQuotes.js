@@ -20,7 +20,7 @@ function MovieQuotes({ quotes, NewQuotesForm, onAddQuote, handleFavorites }) {
           {showForm ? "Hide Form" : "Show Form"}
         </button>
         {showForm ? <NewQuotesForm onAddQuote={onAddQuote} /> : !showForm}
-        <Search onSearch={setSearch} search={search} />
+        {/* <Search onSearch={setSearch} search={search} /> */}
         {myQuotes}
       </div>
     </div>
