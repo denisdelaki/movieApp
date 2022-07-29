@@ -11,7 +11,7 @@ function NewQuotesForm({onAddQuote}) {
     }
     function handleSubmit(e) {
         e.preventDefault()
-        fetch("https://movie-app-plum-two.vercel.app/quotes", {
+        fetch("http://localhost:8004/quotes", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",

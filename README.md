@@ -6,7 +6,7 @@
 ### Project Idea
 This is a fans website that allows the fans to keep track of the lates movies. the fans can mark the movies as watched or unwatched to eliminate from those they are yet to watch. Additionally, the Site allows the users to get accessed to famous movie quotes from different movies and be able to Post new movie Quotes along side the star who said it.   
  ### Minimum Viable Products 
- -User is able View various movie posters when the site loads.
+ -User is able View various movie posters when the site loads.This Movie Posters Loads from an external Api
  -User is able to view various quotes from different movies and different movie stars
  -User is able mark the movie as Watched or Unwatched.
  -User is able to Like the Poster and get access to the number of likes on each Poster.
