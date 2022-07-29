@@ -20,7 +20,7 @@ function onAddQuote(newQuote) {
 }
   
     useEffect(() => {
-        fetch("http://localhost:8004/quotes")
+        fetch("https://movie-app-plum-two.vercel.app/quotes")
           .then((res) => res.json())
           .then((quotes) => setQuote(quotes));
     }, [])
