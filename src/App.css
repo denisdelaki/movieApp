@@ -108,6 +108,7 @@ nav a:active, nav a:hover{
   color: black;
   background-color: red ;
   position: relative;
+  bottom: 1rem;
   left: 20%;
   border: none;
   height: 2.5rem;
