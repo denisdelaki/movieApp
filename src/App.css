@@ -107,6 +107,8 @@ nav a:active, nav a:hover{
 .watchButton{
   color: black;
   background-color: red ;
+  position: relative;
+  left: 20%;
   border: none;
   height: 2.5rem;
   width: 8rem;
@@ -115,6 +117,9 @@ nav a:active, nav a:hover{
 }
 .like{
   background-color: red;
+  position: relative;
+  bottom: 1rem;
+  left: 30%;
   color: black;
   border: none;
   height: 2rem;
